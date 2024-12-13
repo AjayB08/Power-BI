@@ -1,7 +1,7 @@
 # Power-BI
 This repository is a collection of hands-on projects and exercises created during the learning process of Power BI. It includes practical implementations, visualizations, and reports designed to showcase various Power BI features, such as data transformation, modelling, and interactive dashboard creation.
 
-To Open Power BI report, you wil need Power BI Desktop application
+* To Open Power BI report, you will need Power BI Desktop application
 
 ## Superstore Profit Analysis Report
 This Power BI report comprehensively analyses profit and sales performance across various dimensions in the Superstore dataset. The report includes visualizations that compare profits by Category, Sub-Category, Year, Quarter, Segment, and Region, enabling users to identify key trends and insights at different levels of granularity.
